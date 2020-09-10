@@ -43,10 +43,10 @@ ___
 ## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)*
 | № | URL | Title | About the project | Date of writing |
 |----:|----:|:----:|:----------|:----------|
-| n | | url | title | about | date |
-| n | | url | title | about | date |
-| n | | url | title | about | date |
-| n | | url | title | about | date |
-| 2 | | https://alexsimakhin.github.io/Common-Site/ | Site | about | September, 2019 |
-| 1 | | https://alexsimakhin.github.io/Restaraunt_My_First_Site/ | Restaraunt | about | June, 2019 |
+| n | url | title | about | date |
+| n | url | title | about | date |
+| n | url | title | about | date |
+| n | url | title | about | date |
+| 2 | https://alexsimakhin.github.io/Common-Site/ | Site | about | September, 2019 |
+| 1 | https://alexsimakhin.github.io/Restaraunt_My_First_Site/ | Restaraunt | about | June, 2019 |
 
