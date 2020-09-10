@@ -2,9 +2,11 @@
 
 My name is 𝐀𝐥𝐞𝐱𝐚𝐧𝐝𝐞𝐫 𝐒𝐢𝐦𝐚𝐤𝐡𝐢𝐧, 23 years old. I'm from  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Ukraine.png" width="25px">  and I live in Odessa <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Odessa-logo.gif" width="20px">. </br>
 
-Completed a course in the specialty ___"Design"___ at the [С𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐜𝐚𝐝𝐞𝐦𝐲 "𝐒𝐓𝐄𝐏"](https://itstep.org/en).
+Completed a course in the specialty ___"Design"___ at the [С𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐜𝐚𝐝𝐞𝐦𝐲 "𝐒𝐓𝐄𝐏"](https://itstep.org/en). __(Design / HTML5\CSS3\Bootstrap)__
 
-At the moment, I am taking training courses at the [𝐋𝐞𝐜𝐭𝐫𝐮𝐦](https://lectrum.io/). __(JS/React)__
+At the moment, I am taking training courses at the [𝐋𝐞𝐜𝐭𝐫𝐮𝐦](https://lectrum.io/). __(JS / React)__
+
+I aspire to become a Front-End Developer. <img src="https://camo.githubusercontent.com/41f5aa64e0930a781b0962898b4aff4db06f9560/68747470733a2f2f63646e2e7261776769742e636f6d2f7368616e6e6f6e6d6f656c6c65722f66726f6e742d656e642d6c6f676f2f6d61737465722f6578706f7274732f66726f6e742d656e642d6c6f676f2d636f6c6f722e737667" width="40px">
 
 ## My skills:
 
@@ -20,6 +22,7 @@ At the moment, I am taking training courses at the [𝐋𝐞𝐜𝐭𝐫𝐮𝐦
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-2885C8?style=for-the-badge&logo=visual-studio-code)](https://github.com/AlexSimakhin) 
 [![Git](https://img.shields.io/badge/-Git-333231?style=for-the-badge&logo=git)](https://github.com/AlexSimakhin) 
 [![GitHub](https://img.shields.io/badge/-GitHub-333231?style=for-the-badge&logo=github)](https://github.com/AlexSimakhin)
+===
 
 ### Design:
 
@@ -30,25 +33,16 @@ At the moment, I am taking training courses at the [𝐋𝐞𝐜𝐭𝐫𝐮𝐦
 [![AdobeAudition](https://img.shields.io/badge/-Adobe_Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)](https://github.com/AlexSimakhin)
 [![AdobeAfterEffects](https://img.shields.io/badge/-Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://github.com/AlexSimakhin)
 [![AdobeXD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://github.com/AlexSimakhin)
-
+===
 [![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://github.com/AlexSimakhin) __: 3D MAX, AutoCAD, MAYA, Mudbox.__
-
+===
 __UI/UX Skills:__
 [![MaterialDesign](https://img.shields.io/badge/-Material_Design-757575?style=for-the-badge&logo=material-Design&logoColor=white)](https://github.com/AlexSimakhin)
 [![HumanInterfaceGuidelines](https://img.shields.io/badge/-Human_Interface_Guidelines-757575?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/AlexSimakhin)
+___
+## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)*
+| URL | Title | About the project | Date of writing |
+|----:|:----:|:----------|:----------|
+| literal | Строка содержит символьный литерал literal | foo | foo |
+| re1&#124;re2 | Строка содержит регулярные выражения `rel` или `re2` | foo&#124;bar | foo |
 
-<!--
-Заметки идей)
-**AlexSimakhin/AlexSimakhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
