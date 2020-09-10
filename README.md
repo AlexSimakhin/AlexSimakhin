@@ -41,8 +41,12 @@ __UI/UX Skills:__
 [![HumanInterfaceGuidelines](https://img.shields.io/badge/-Human_Interface_Guidelines-757575?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/AlexSimakhin)
 ___
 ## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)*
-| URL | Title | About the project | Date of writing |
-|----:|:----:|:----------|:----------|
-| literal | Строка содержит символьный литерал literal | foo | foo |
-| re1&#124;re2 | Строка содержит регулярные выражения `rel` или `re2` | foo&#124;bar | foo |
+| № | URL | Title | About the project | Date of writing |
+|----:|----:|:----:|:----------|:----------|
+| n | | url | title | about | date |
+| n | | url | title | about | date |
+| n | | url | title | about | date |
+| n | | url | title | about | date |
+| 2 | | https://alexsimakhin.github.io/Common-Site/ | Site | about | September, 2019 |
+| 1 | | https://alexsimakhin.github.io/Restaraunt_My_First_Site/ | Restaraunt | about | June, 2019 |
 
