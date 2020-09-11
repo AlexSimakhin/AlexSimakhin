@@ -33,9 +33,9 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 [![AdobeAudition](https://img.shields.io/badge/-Adobe_Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)](https://github.com/AlexSimakhin)
 [![AdobeAfterEffects](https://img.shields.io/badge/-Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://github.com/AlexSimakhin)
 [![AdobeXD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://github.com/AlexSimakhin)
-===
-[![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://github.com/AlexSimakhin) __: 3D MAX, AutoCAD, MAYA, Mudbox.__
-===
+
+[![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://github.com/AlexSimakhin) **: 3D MAX, AutoCAD, MAYA, Mudbox.**
+
 __UI/UX Skills:__
 [![MaterialDesign](https://img.shields.io/badge/-Material_Design-757575?style=for-the-badge&logo=material-Design&logoColor=white)](https://github.com/AlexSimakhin)
 [![HumanInterfaceGuidelines](https://img.shields.io/badge/-Human_Interface_Guidelines-757575?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/AlexSimakhin)
