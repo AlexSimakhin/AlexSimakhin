@@ -43,16 +43,16 @@ ___
 ## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)*
 | № | URL | Title | About the project | Date of upload |
 |----:|----:|:----:|:----------|:----------|
-| 12 | https://alexsimakhin.github.io/Motorcycle/ | Motorcycle site | about | August, 2020 |
+| 12 | https://alexsimakhin.github.io/Motorcycle/ | Motorcycle site (WP) | about | August, 2020 |
 | 11 | https://alexsimakhin.github.io/SpaceX-Practice-Intensive/ | SpaceX Site | about | August, 2020 |
 | 10 | https://alexsimakhin.github.io/VMR-Players-on-JavaScript/ | Player on JS | about | August, 2020 |
 | 9 | https://alexsimakhin.github.io/Batman-TestWork/ | Batman Site (WP) | about | August, 2020 |
-| 8 | https://alexsimakhin.github.io/WayUP-Newbie-HTML-CSS/3.html | SkillsUo | about | July, 2020 |
+| 8 | https://alexsimakhin.github.io/WayUP-Newbie-HTML-CSS/3.html | SkillsUp | about | July, 2020 |
 | 7 | https://alexsimakhin.github.io/SiriusDent/ | Dentist Site (WP) | about | April, 2020 |
 | 6 | https://alexsimakhin.github.io/TestUnityGame/ | Unity Test | about | March, 2020 |
 | 5 | https://alexsimakhin.github.io/AviaSales/ | API Test | about | March, 2020 |
-| 4 | https://alexsimakhin.github.io/SnakeTest/ | Game | about | March, 2020 |
-| 3 | https://alexsimakhin.github.io/SeaBattleTest/ | Game | about | March, 2020 |
+| 4 | https://alexsimakhin.github.io/SnakeTest/ | Game JS | about | March, 2020 |
+| 3 | https://alexsimakhin.github.io/SeaBattleTest/ | Game JS | about | March, 2020 |
 | 2 | https://alexsimakhin.github.io/Common-Site/ | Common Site | about | September, 2019 |
 | 1 | https://alexsimakhin.github.io/Restaraunt_My_First_Site/ | Restaraunt Site | about | June, 2019 |
 
