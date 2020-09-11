@@ -27,7 +27,7 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 ### Design:
 
 [![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/AlexSimakhin)
-:
+**:**
 [![AdobePhotoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://github.com/AlexSimakhin)
 [![AdobeIllustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://github.com/AlexSimakhin)
 [![AdobeInDesign](https://img.shields.io/badge/-Adobe_InDesign-EE3D8F?style=for-the-badge&logo=adobe-indesign&logoColor=white)](https://github.com/AlexSimakhin)
@@ -37,30 +37,34 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 [![AdobeXD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://github.com/AlexSimakhin)
 
 [![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://github.com/AlexSimakhin)
-:
+**:**
 [![3D MAX](https://img.shields.io/badge/-3D_MAX-0696D7?style=for-the-badge)](https://github.com/AlexSimakhin)
 [![AutoCAD](https://img.shields.io/badge/-AutoCAD-0696D7?style=for-the-badge)](https://github.com/AlexSimakhin)
 [![MAYA](https://img.shields.io/badge/-MAYA-0696D7?style=for-the-badge)](https://github.com/AlexSimakhin)
 [![Mudbox](https://img.shields.io/badge/-Mudbox-0696D7?style=for-the-badge)](https://github.com/AlexSimakhin)
 
 [![UI/UXSkills](https://img.shields.io/badge/-UI/UX_Skills-757575?style=for-the-badge)](https://github.com/AlexSimakhin)
-:
+**:**
 [![MaterialDesign](https://img.shields.io/badge/-Material_Design-757575?style=for-the-badge&logo=material-Design&logoColor=white)](https://github.com/AlexSimakhin)
 [![HumanInterfaceGuidelines](https://img.shields.io/badge/-Human_Interface_Guidelines-757575?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/AlexSimakhin)
+
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/AlexSimakhin)
+[![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=000000)](https://github.com/AlexSimakhin)
+[![InVision](https://img.shields.io/badge/-InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white)](https://github.com/AlexSimakhin)
 ___
 ## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)*
 | № | URL | Title | About the project | Date of upload |
 |----:|----:|:----:|:----------|:----------|
-| 12 | https://alexsimakhin.github.io/Motorcycle/ | Motorcycle site (WP) | about | August, 2020 |
+| 12 | https://alexsimakhin.github.io/Motorcycle/ | Motorcycle site **(WP)** | about | August, 2020 |
 | 11 | https://alexsimakhin.github.io/SpaceX-Practice-Intensive/ | SpaceX Site | about | August, 2020 |
 | 10 | https://alexsimakhin.github.io/VMR-Players-on-JavaScript/ | Player on JS | about | August, 2020 |
-| 9 | https://alexsimakhin.github.io/Batman-TestWork/ | Batman Site (WP) | about | August, 2020 |
+| 9 | https://alexsimakhin.github.io/Batman-TestWork/ | Batman Site **(WP)** | about | August, 2020 |
 | 8 | https://alexsimakhin.github.io/WayUP-Newbie-HTML-CSS/3.html | SkillsUp | about | July, 2020 |
-| 7 | https://alexsimakhin.github.io/SiriusDent/ | Dentist Site (WP) | about | April, 2020 |
+| 7 | https://alexsimakhin.github.io/SiriusDent/ | Dentist Site **(WP)** | about | April, 2020 |
 | 6 | https://alexsimakhin.github.io/TestUnityGame/ | Unity Test | about | March, 2020 |
 | 5 | https://alexsimakhin.github.io/AviaSales/ | API Test | about | March, 2020 |
 | 4 | https://alexsimakhin.github.io/SnakeTest/ | Game JS | about | March, 2020 |
 | 3 | https://alexsimakhin.github.io/SeaBattleTest/ | Game JS | about | March, 2020 |
-| 2 | https://alexsimakhin.github.io/Common-Site/ | Common Site | about | September, 2019 |
+| 2 | https://alexsimakhin.github.io/Common-Site/ | Common Site **(WP)** | about | September, 2019 |
 | 1 | https://alexsimakhin.github.io/Restaraunt_My_First_Site/ | Restaraunt Site | about | June, 2019 |
 
