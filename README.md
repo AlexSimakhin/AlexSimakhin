@@ -16,8 +16,8 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://github.com/AlexSimakhin) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)](https://github.com/AlexSimakhin)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-363534?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/AlexSimakhin) — 50%;
-[![React](https://img.shields.io/badge/-React-363534?style=for-the-badge&logo=react)](https://github.com/AlexSimakhin) — 10%.
+[![JavaScript](https://img.shields.io/badge/JavaScript-50%25-363534?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/AlexSimakhin)
+[![React](https://img.shields.io/badge/React-10%25-363534?style=for-the-badge&logo=react)](https://github.com/AlexSimakhin)
 
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-2885C8?style=for-the-badge&logo=visual-studio-code)](https://github.com/AlexSimakhin) 
 [![Git](https://img.shields.io/badge/-Git-333231?style=for-the-badge&logo=git)](https://github.com/AlexSimakhin) 
@@ -26,6 +26,8 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 
 ### Design:
 
+[![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/AlexSimakhin)
+:
 [![AdobePhotoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://github.com/AlexSimakhin)
 [![AdobeIllustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://github.com/AlexSimakhin)
 [![AdobeInDesign](https://img.shields.io/badge/-Adobe_InDesign-EE3D8F?style=for-the-badge&logo=adobe-indesign&logoColor=white)](https://github.com/AlexSimakhin)
@@ -34,9 +36,15 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 [![AdobeAfterEffects](https://img.shields.io/badge/-Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://github.com/AlexSimakhin)
 [![AdobeXD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://github.com/AlexSimakhin)
 
-[![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://github.com/AlexSimakhin) **: 3D MAX, AutoCAD, MAYA, Mudbox.**
+[![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://github.com/AlexSimakhin)
+:
+[![3D MAX](https://img.shields.io/badge/-3D_MAX-0696D7?style=for-the-badge)](https://github.com/AlexSimakhin)
+[![AutoCAD](https://img.shields.io/badge/-AutoCAD-0696D7?style=for-the-badge)](https://github.com/AlexSimakhin)
+[![MAYA](https://img.shields.io/badge/-MAYA-0696D7?style=for-the-badge)](https://github.com/AlexSimakhin)
+[![Mudbox](https://img.shields.io/badge/-Mudbox-0696D7?style=for-the-badge)](https://github.com/AlexSimakhin)
 
-__UI/UX Skills:__
+[![UI/UXSkills](https://img.shields.io/badge/-UI/UX_Skills-757575?style=for-the-badge)](https://github.com/AlexSimakhin)
+:
 [![MaterialDesign](https://img.shields.io/badge/-Material_Design-757575?style=for-the-badge&logo=material-Design&logoColor=white)](https://github.com/AlexSimakhin)
 [![HumanInterfaceGuidelines](https://img.shields.io/badge/-Human_Interface_Guidelines-757575?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/AlexSimakhin)
 ___
