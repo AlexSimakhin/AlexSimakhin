@@ -16,12 +16,17 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://github.com/AlexSimakhin) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)](https://github.com/AlexSimakhin)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-50%25-363534?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/AlexSimakhin)
-[![React](https://img.shields.io/badge/React-10%25-363534?style=for-the-badge&logo=react)](https://github.com/AlexSimakhin)
+[![JavaScript](https://img.shields.io/badge/JavaScript-90%25-363534?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/AlexSimakhin)
+[![React](https://img.shields.io/badge/React-25%25-363534?style=for-the-badge&logo=react)](https://github.com/AlexSimakhin)
 
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-2885C8?style=for-the-badge&logo=visual-studio-code)](https://github.com/AlexSimakhin) 
+[![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&logo=webstorm)](https://github.com/AlexSimakhin) 
+[![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=atom)](https://github.com/AlexSimakhin) 
 [![Git](https://img.shields.io/badge/-Git-333231?style=for-the-badge&logo=git)](https://github.com/AlexSimakhin) 
 [![GitHub](https://img.shields.io/badge/-GitHub-333231?style=for-the-badge&logo=github)](https://github.com/AlexSimakhin)
+[![GitLab](https://img.shields.io/badge/-GitLab-333231?style=for-the-badge&logo=gitlab)](https://github.com/AlexSimakhin)
+[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)](https://github.com/AlexSimakhin)
+[![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=FFFFFF)](https://github.com/AlexSimakhin)
 ===
 
 ### Design:
