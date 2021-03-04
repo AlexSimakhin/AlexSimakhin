@@ -16,11 +16,12 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://github.com/AlexSimakhin) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)](https://github.com/AlexSimakhin)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-90%25-363534?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/AlexSimakhin)
-[![React](https://img.shields.io/badge/React-90%25-363534?style=for-the-badge&logo=react)](https://github.com/AlexSimakhin)
+[![JavaScript](https://img.shields.io/badge/JavaScript-363534?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/AlexSimakhin)
+[![React](https://img.shields.io/badge/React-363534?style=for-the-badge&logo=react)](https://github.com/AlexSimakhin)
 
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)](https://github.com/AlexSimakhin)
-[![Node](https://img.shields.io/badge/Node_basic_lvl-339933?style=for-the-badge&logo=redux)](https://github.com/AlexSimakhin)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)](https://github.com/AlexSimakhin)
+[![Node](https://img.shields.io/badge/Node_basic_lvl-339933?style=for-the-badge&logo=node-dot-js)](https://github.com/AlexSimakhin)
 
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-2885C8?style=for-the-badge&logo=visual-studio-code)](https://github.com/AlexSimakhin) 
 [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&logo=webstorm)](https://github.com/AlexSimakhin) 
@@ -30,6 +31,8 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 [![GitLab](https://img.shields.io/badge/-GitLab-333231?style=for-the-badge&logo=gitlab)](https://github.com/AlexSimakhin)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)](https://github.com/AlexSimakhin)
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=FFFFFF)](https://github.com/AlexSimakhin)
+[![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=FFFFFF)](https://github.com/AlexSimakhin)
+[![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://github.com/AlexSimakhin)
 ===
 
 ### Design:
@@ -63,16 +66,26 @@ ___
 ## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)*
 | № | URL | Title | About the project | Date of upload |
 |----:|----:|:----:|:----------|:----------|
-| 12 | https://alexsimakhin.github.io/Motorcycle/ | Motorcycle site **(WP)** | about | August, 2020 |
+| 13/2**↧** | # | Valorant (React TS project) **(WP)** | about | February, 2021 |
+| 21 | # | React-Redux-Project-4 | about | February, 2021 |
+| 20 | # | React-Redux-Project-3 **(WP)** | about | February, 2021 |
+| 19 | # | React-Redux-Project-2 | <a href="https://github.com/AlexSimakhin/React-Redux-Project-2#alex-simakhin--site-link" target="_blank">about</a> | January, 2021 |
+| 18 | https://alexsimakhin.github.io/React-Redux-Project-1/ | React-Redux-Project-1 | <a href="https://github.com/AlexSimakhin/React-Redux-Project-1#alex-simakhin--site-link" target="_blank">about</a> | January, 2021 |
+| 17 | https://alexsimakhin.github.io/JS-Project-4/ | JS-Project-4 | <a href="https://github.com/AlexSimakhin/JS-Project-4#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
+| 16 | https://alexsimakhin.github.io/JS-Project-3/ | JS-Project-3 | <a href="https://github.com/AlexSimakhin/JS-Project-3#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
+| 15 | https://alexsimakhin.github.io/JS-Project-2/ | JS-Project-2 | <a href="https://github.com/AlexSimakhin/JS-Project-2#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
+| 14 | https://alexsimakhin.github.io/JS-Project-1/ | JS-Project-1 | <a href="https://github.com/AlexSimakhin/JS-Project-1#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
+| 13/1 | https://alexsimakhin.github.io/my-first-react-app/ | Valorant (1-st React App) **(WS)** | about | November, 2020 |
+| 12 | https://alexsimakhin.github.io/Motorcycle/ | Motorcycle site **(WS)** | about | August, 2020 |
 | 11 | https://alexsimakhin.github.io/SpaceX-Practice-Intensive/ | SpaceX Site | about | August, 2020 |
 | 10 | https://alexsimakhin.github.io/VMR-Players-on-JavaScript/ | Player on JS | about | August, 2020 |
-| 9 | https://alexsimakhin.github.io/Batman-TestWork/ | Batman Site **(WP)** | about | August, 2020 |
+| 9 | https://alexsimakhin.github.io/Batman-TestWork/ | Batman Site **(WS)** | about | August, 2020 |
 | 8 | https://alexsimakhin.github.io/WayUP-Newbie-HTML-CSS/3.html | SkillsUp | about | July, 2020 |
-| 7 | https://alexsimakhin.github.io/SiriusDent/ | Dentist Site **(WP)** | about | April, 2020 |
+| 7 | https://alexsimakhin.github.io/SiriusDent/ | Dentist Site **(WS)** | about | April, 2020 |
 | 6 | https://alexsimakhin.github.io/TestUnityGame/ | Unity Test | about | March, 2020 |
 | 5 | https://alexsimakhin.github.io/AviaSales/ | API Test | about | March, 2020 |
 | 4 | https://alexsimakhin.github.io/SnakeTest/ | Game JS | about | March, 2020 |
 | 3 | https://alexsimakhin.github.io/SeaBattleTest/ | Game JS | about | March, 2020 |
-| 2 | https://alexsimakhin.github.io/Common-Site/ | Common Site **(WP)** | about | September, 2019 |
+| 2 | https://alexsimakhin.github.io/Common-Site/ | Common Site **(WS)** | about | September, 2019 |
 | 1 | https://alexsimakhin.github.io/Restaraunt_My_First_Site/ | Restaraunt Site | about | June, 2019 |
 
