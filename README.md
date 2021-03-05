@@ -64,17 +64,17 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 [![InVision](https://img.shields.io/badge/-InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white)](https://github.com/AlexSimakhin)
 ___
 ## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)*
-| № | URL | Title | About the project | Date of upload |
+| № | Webpage link | Title (Repo link) | About the project | Date of upload |
 |----:|----:|:----:|:----------|:----------|
 | 13/2**↧** | # | Valorant (React TS project) **(WP)** | about | February, 2021 |
-| 21 | # | React-Redux-Project-4 | about | February, 2021 |
-| 20 | # | React-Redux-Project-3 **(WP)** | about | February, 2021 |
-| 19 | # | React-Redux-Project-2 | <a href="https://github.com/AlexSimakhin/React-Redux-Project-2#alex-simakhin--site-link" target="_blank">about</a> | January, 2021 |
-| 18 | https://alexsimakhin.github.io/React-Redux-Project-1/ | React-Redux-Project-1 | <a href="https://github.com/AlexSimakhin/React-Redux-Project-1#alex-simakhin--site-link" target="_blank">about</a> | January, 2021 |
-| 17 | https://alexsimakhin.github.io/JS-Project-4/ | JS-Project-4 | <a href="https://github.com/AlexSimakhin/JS-Project-4#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
-| 16 | https://alexsimakhin.github.io/JS-Project-3/ | JS-Project-3 | <a href="https://github.com/AlexSimakhin/JS-Project-3#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
-| 15 | https://alexsimakhin.github.io/JS-Project-2/ | JS-Project-2 | <a href="https://github.com/AlexSimakhin/JS-Project-2#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
-| 14 | https://alexsimakhin.github.io/JS-Project-1/ | JS-Project-1 | <a href="https://github.com/AlexSimakhin/JS-Project-1#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
+| 21 | # | <a href="https://github.com/AlexSimakhin/React-Redux-Project-4" target="_blank">React-Redux-Project-4</a> | about | February, 2021 |
+| 20 | # | <a href="https://github.com/AlexSimakhin/React-Redux-Project-3" target="_blank">React-Redux-Project-3</a> **(WP)** | about | February, 2021 |
+| 19 | # | <a href="https://github.com/AlexSimakhin/React-Redux-Project-2" target="_blank">React-Redux-Project-2</a> | <a href="https://github.com/AlexSimakhin/React-Redux-Project-2#alex-simakhin--site-link" target="_blank">about</a> | January, 2021 |
+| 18 | https://alexsimakhin.github.io/React-Redux-Project-1/ | <a href="https://github.com/AlexSimakhin/React-Redux-Project-1" target="_blank">React-Redux-Project-1</a> | <a href="https://github.com/AlexSimakhin/React-Redux-Project-1#alex-simakhin--site-link" target="_blank">about</a> | January, 2021 |
+| 17 | https://alexsimakhin.github.io/JS-Project-4/ | <a href="https://github.com/AlexSimakhin/JS-Project-4" target="_blank">JS-Project-4</a> | <a href="https://github.com/AlexSimakhin/JS-Project-4#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
+| 16 | https://alexsimakhin.github.io/JS-Project-3/ | <a href="https://github.com/AlexSimakhin/JS-Project-3" target="_blank">JS-Project-3</a> | <a href="https://github.com/AlexSimakhin/JS-Project-3#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
+| 15 | https://alexsimakhin.github.io/JS-Project-2/ | <a href="https://github.com/AlexSimakhin/JS-Project-2" target="_blank">JS-Project-2</a> | <a href="https://github.com/AlexSimakhin/JS-Project-2#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
+| 14 | https://alexsimakhin.github.io/JS-Project-1/ | <a href="https://github.com/AlexSimakhin/JS-Project-1" target="_blank">JS-Project-1</a> | <a href="https://github.com/AlexSimakhin/JS-Project-1#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
 | 13/1 | https://alexsimakhin.github.io/my-first-react-app/ | Valorant (1-st React App) **(WS)** | about | November, 2020 |
 | 12 | https://alexsimakhin.github.io/Motorcycle/ | Motorcycle site **(WS)** | about | August, 2020 |
 | 11 | https://alexsimakhin.github.io/SpaceX-Practice-Intensive/ | SpaceX Site | about | August, 2020 |
