@@ -66,26 +66,26 @@ ___
 ## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)*
 | № | Webpage link | Title (Repo link) | About the project | Date of upload |
 |----:|----:|:----:|:----------|:----------|
-| 13/2**↧** | # | Valorant (React TS project) **(WP)** | about | February, 2021 |
-| 21 | # | <a href="https://github.com/AlexSimakhin/React-Redux-Project-4" target="_blank">React-Redux-Project-4</a> | about | February, 2021 |
-| 20 | # | <a href="https://github.com/AlexSimakhin/React-Redux-Project-3" target="_blank">React-Redux-Project-3</a> **(WP)** | about | February, 2021 |
+| 17/2**↧** | # | <a href="https://github.com/AlexSimakhin/react-typescript-test-project" target="_blank">Valorant (React TS project)</a> **(WP)** | about **(WP)** | February, 2021 |
+| 21 | # | <a href="https://github.com/AlexSimakhin/React-Redux-Project-4" target="_blank">React-Redux-Project-4</a> | about **(WP)** | February, 2021 |
+| 20 | # | <a href="https://github.com/AlexSimakhin/React-Redux-Project-3" target="_blank">React-Redux-Project-3</a> **(WP)** | about **(WP)** | February, 2021 |
 | 19 | # | <a href="https://github.com/AlexSimakhin/React-Redux-Project-2" target="_blank">React-Redux-Project-2</a> | <a href="https://github.com/AlexSimakhin/React-Redux-Project-2#alex-simakhin--site-link" target="_blank">about</a> | January, 2021 |
 | 18 | https://alexsimakhin.github.io/React-Redux-Project-1/ | <a href="https://github.com/AlexSimakhin/React-Redux-Project-1" target="_blank">React-Redux-Project-1</a> | <a href="https://github.com/AlexSimakhin/React-Redux-Project-1#alex-simakhin--site-link" target="_blank">about</a> | January, 2021 |
-| 17 | https://alexsimakhin.github.io/JS-Project-4/ | <a href="https://github.com/AlexSimakhin/JS-Project-4" target="_blank">JS-Project-4</a> | <a href="https://github.com/AlexSimakhin/JS-Project-4#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
-| 16 | https://alexsimakhin.github.io/JS-Project-3/ | <a href="https://github.com/AlexSimakhin/JS-Project-3" target="_blank">JS-Project-3</a> | <a href="https://github.com/AlexSimakhin/JS-Project-3#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
-| 15 | https://alexsimakhin.github.io/JS-Project-2/ | <a href="https://github.com/AlexSimakhin/JS-Project-2" target="_blank">JS-Project-2</a> | <a href="https://github.com/AlexSimakhin/JS-Project-2#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
-| 14 | https://alexsimakhin.github.io/JS-Project-1/ | <a href="https://github.com/AlexSimakhin/JS-Project-1" target="_blank">JS-Project-1</a> | <a href="https://github.com/AlexSimakhin/JS-Project-1#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
-| 13/1 | https://alexsimakhin.github.io/my-first-react-app/ | Valorant (1-st React App) **(WS)** | about | November, 2020 |
-| 12 | https://alexsimakhin.github.io/Motorcycle/ | Motorcycle site **(WS)** | about | August, 2020 |
-| 11 | https://alexsimakhin.github.io/SpaceX-Practice-Intensive/ | SpaceX Site | about | August, 2020 |
-| 10 | https://alexsimakhin.github.io/VMR-Players-on-JavaScript/ | Player on JS | about | August, 2020 |
-| 9 | https://alexsimakhin.github.io/Batman-TestWork/ | Batman Site **(WS)** | about | August, 2020 |
-| 8 | https://alexsimakhin.github.io/WayUP-Newbie-HTML-CSS/3.html | SkillsUp | about | July, 2020 |
-| 7 | https://alexsimakhin.github.io/SiriusDent/ | Dentist Site **(WS)** | about | April, 2020 |
-| 6 | https://alexsimakhin.github.io/TestUnityGame/ | Unity Test | about | March, 2020 |
-| 5 | https://alexsimakhin.github.io/AviaSales/ | API Test | about | March, 2020 |
-| 4 | https://alexsimakhin.github.io/SnakeTest/ | Game JS | about | March, 2020 |
-| 3 | https://alexsimakhin.github.io/SeaBattleTest/ | Game JS | about | March, 2020 |
-| 2 | https://alexsimakhin.github.io/Common-Site/ | Common Site **(WS)** | about | September, 2019 |
-| 1 | https://alexsimakhin.github.io/Restaraunt_My_First_Site/ | Restaraunt Site | about | June, 2019 |
+| 17/1 | https://alexsimakhin.github.io/my-first-react-app/ | Valorant (1-st React App) **(WS)** | about **(WP)** | December, 2020 |
+| 16 | https://alexsimakhin.github.io/JS-Project-4/ | <a href="https://github.com/AlexSimakhin/JS-Project-4" target="_blank">JS-Project-4</a> | <a href="https://github.com/AlexSimakhin/JS-Project-4#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
+| 15 | https://alexsimakhin.github.io/JS-Project-3/ | <a href="https://github.com/AlexSimakhin/JS-Project-3" target="_blank">JS-Project-3</a> | <a href="https://github.com/AlexSimakhin/JS-Project-3#lectrum-js-personal-project" target="_blank">about</a> | December, 2020 |
+| 14 | https://alexsimakhin.github.io/JS-Project-2/ | <a href="https://github.com/AlexSimakhin/JS-Project-2" target="_blank">JS-Project-2</a> | <a href="https://github.com/AlexSimakhin/JS-Project-2#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
+| 13 | https://alexsimakhin.github.io/JS-Project-1/ | <a href="https://github.com/AlexSimakhin/JS-Project-1" target="_blank">JS-Project-1</a> | <a href="https://github.com/AlexSimakhin/JS-Project-1#lectrum-js-personal-project" target="_blank">about</a> | November, 2020 |
+| 12 | https://alexsimakhin.github.io/Motorcycle/ | <a href="https://github.com/AlexSimakhin/Motorcycle" target="_blank">Motorcycle site</a> **(WS)** | about | August, 2020 |
+| 11 | https://alexsimakhin.github.io/SpaceX-Practice-Intensive/ | <a href="https://github.com/AlexSimakhin/SpaceX-Practice-Intensive" target="_blank">SpaceX Site</a> | about | August, 2020 |
+| 10 | https://alexsimakhin.github.io/VMR-Players-on-JavaScript/ | <a href="https://github.com/AlexSimakhin/VMR-Players-on-JavaScript" target="_blank">Player on JS</a> | about | August, 2020 |
+| 9 | https://alexsimakhin.github.io/Batman-TestWork/ | <a href="https://github.com/AlexSimakhin/Batman-TestWork" target="_blank">Batman Site</a> **(WS)** | about | August, 2020 |
+| 8 | https://alexsimakhin.github.io/WayUP-Newbie-HTML-CSS/3.html | <a href="https://github.com/AlexSimakhin/WayUP-Newbie-HTML-CSS" target="_blank">WayUP</a> | about | July, 2020 |
+| 7 | https://alexsimakhin.github.io/SiriusDent/ | <a href="https://github.com/AlexSimakhin/SiriusDent" target="_blank">Dentist Site</a> **(WS)** | about | April, 2020 |
+| 6 | https://alexsimakhin.github.io/TestUnityGame/ | <a href="https://github.com/AlexSimakhin/TestUnityGame" target="_blank">Unity Test</a> | about | March, 2020 |
+| 5 | https://alexsimakhin.github.io/AviaSales/ | <a href="https://github.com/AlexSimakhin/AviaSales" target="_blank">API Test</a> | about | March, 2020 |
+| 4 | https://alexsimakhin.github.io/SnakeTest/ | <a href="https://github.com/AlexSimakhin/SnakeTest" target="_blank">Game JS — Snake</a> | about | March, 2020 |
+| 3 | https://alexsimakhin.github.io/SeaBattleTest/ | <a href="https://github.com/AlexSimakhin/SeaBattleTest" target="_blank">Game JS — Sea Battle</a> | about | March, 2020 |
+| 2 | https://alexsimakhin.github.io/Common-Site/ | <a href="https://github.com/AlexSimakhin/SeaBattleTest" target="_blank">Common Site</a> **(WS)** | about | September, 2019 |
+| 1 | https://alexsimakhin.github.io/Restaraunt_My_First_Site/ | <a href="https://github.com/AlexSimakhin/Restaraunt_My_First_Site" target="_blank">Restaraunt Site</a> | about | June, 2019 |
 
