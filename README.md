@@ -63,7 +63,7 @@ I aspire to become a **𝓕𝓻𝓸𝓷𝓽-𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵�
 [![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=000000)](https://github.com/AlexSimakhin)
 [![InVision](https://img.shields.io/badge/-InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white)](https://github.com/AlexSimakhin)
 ___
-## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)*
+## CodeStory <img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" width="80px"> *(From newest to oldest)* ____\I will update the data soon/ 
 | № | Webpage link | Title (Repo link) | About the project | Date of upload |
 |----:|----:|:----:|:----------|:----------|
 | 17/2**↧** | # | <a href="https://github.com/AlexSimakhin/react-typescript-test-project" target="_blank">Valorant (React TS project)</a> **(WP)** | about **(WP)** | February, 2021 |
